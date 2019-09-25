@@ -1,1 +1,1 @@
-colors_in_the_rainbow.push("next color")
+colors_in_the_rainbow.push("violet")
