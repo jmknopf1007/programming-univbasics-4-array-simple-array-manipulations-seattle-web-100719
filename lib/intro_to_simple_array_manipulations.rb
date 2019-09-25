@@ -1,2 +1,2 @@
-def colors_in_the_rainbow.push("violet")
+def using_push
 end
